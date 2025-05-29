@@ -6,7 +6,7 @@
 
 A Model Context Protocol (MCP) server for integrating ClickUp tasks with AI applications. This server allows AI agents to interact with ClickUp tasks, spaces, lists, and folders through a standardized protocol.
 
-> 🚀 **Status Update:** v0.7.2 now available with complete Time Tracking support and Document Management features.
+> 🚀 **Status Update:** v0.7.2 now available with complete Time Tracking support and Document Management features.  Please note, some of the latest features/tools are not rolled out yet and will only work when cloning the repo and running locally as node command instead of npx.
 
 ## Setup
 
